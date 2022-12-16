@@ -1,4 +1,7 @@
 ```
-npm install
-npm start
+Back end:
+- flask run
+Front end:
+- npm install
+- npm start
 ```
