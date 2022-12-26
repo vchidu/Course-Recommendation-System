@@ -2,7 +2,7 @@
 
 
 ### **A Brief Introduction...**
-A single platform that provides online educational content recommendations for all professional requirements with recommendations including courses from multiple sites
+A single platform that provides online educational content recommendations for all professional requirements with recommendations including courses from multiple sites.
 Problems with the Current recommendation system:
 - Single platform
 - General preferences
