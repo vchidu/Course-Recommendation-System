@@ -20,7 +20,7 @@ Data is a small open dataset with courses from coursera found on kaggle. For add
 ### **Architecture & Design**
 The application combines the use of Tailwind CSS, React, Bert, Flask API to provide real-time recommendation of courses.
 
-![flowchart](common process_map.drawio)
+![flowchart](common process_map.png)
 
 Data is extracted from various online learning websites, pre-processed and then encoded using pre-trained BERT model. This matrix of vector represenation is saved and used to recommend similar courses based on cosine similarity. The matrix is stored so that ecoding doesn't need to be repeatedly performed again every time wewant to predict similar courses. The result is then fed to the front-end via a Flask API and shown to user. User enters course name or a keyword which is used to recommend similar courses with ranking given alongside it.
 
